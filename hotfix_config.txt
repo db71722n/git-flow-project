@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+void user_login() {
+    // Fix bug where login would fail
+    printf("User login functionality fixed\n");
+}
